@@ -62,7 +62,7 @@ The goal was to compare models and build a robust system suitable for real-world
 
 | Model          | Accuracy   | AUC        | Remarks           |
 | -------------- | ---------- | ---------- | ----------------- |
-| EfficientNetB0 | 81.36%     | 0.828      | Moderate performance  |
+| EfficientNetB0 | 81.361%     | 0.828      | Moderate performance  |
 | MobileNetV2    | 93.25%     | 0.9819     | Best single model |
 | Ensemble Model | **96.22%** | **0.9872** | Best overall 🚀   |
 
