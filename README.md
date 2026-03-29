@@ -12,7 +12,7 @@ We experimented with:
 
 * EfficientNetB0
 * MobileNetV2 
-* Ensemble Model
+* Ensemble Model 
 
 The goal was to compare models and build a robust system suitable for real-world medical applications.
 
@@ -128,7 +128,7 @@ jupyter notebook
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to reach out.
+If you have any questions or suggestions, feel free to reach out!
 
 ---
 
